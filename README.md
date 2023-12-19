@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <summary>⚡️ More about my coding life</summary>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annapurna2003&layout=compact&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvnd147&layout=compact&hide=css,html)
 
 ![Aravind's github stats](https://github-readme-stats.vercel.app/api?username=arvnd147&count_private=true&show_icons=true&theme=onedark)
 
